@@ -173,6 +173,10 @@ footer a{
         letter-spacing: 4px;
         color: var(--black);
     }
+     li a:hover{
+        padding: 10px;
+        background-color: rgba(128, 128, 128, 0.6)
+    }
     h2{
         position: absolute;
         top: 50%;
