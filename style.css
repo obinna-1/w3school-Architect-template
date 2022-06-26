@@ -124,7 +124,7 @@ h4{
     margin-top: 10px;
 }
 input[type=text], input[type=email]{
-    width: 100%;
+    width: 95%;
     border-radius: 5px;
     padding: 7px;
     border: 1px solid hsla(0,0%,50%, 0.4);
@@ -198,6 +198,9 @@ footer a{
     }
     .logo{
         line-height: 20px;
+    }
+    input[type=text], input[type=email]{
+        width:99%;
     }
 }
 @media screen and (min-width:995px) {
